@@ -74,6 +74,7 @@
     <link href="assets/css/floating-labels.css" rel="stylesheet">
   </head>
   <body>
+
 <form class="form-signin" method="post" action="cek_login.php">
   <div class="text-center mb-4">
     <img class="mb-4" src="assets/nahidaa.png" width="150">
@@ -97,6 +98,7 @@
     </label>
   </div>
   <button class="btn btn-lg btn-primary btn-block" type="submit">Login</button>
+  <button class="btn btn-lg btn-primary btn-block" type="button" onclick="location.href='noakun.php';">Tidak Punya Akun?</button>
 </form>
 </body>
 </html>
