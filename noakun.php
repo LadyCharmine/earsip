@@ -108,7 +108,7 @@
 
 
 <div class="jumbotron mt-3">
-  <h1 class="display-4">Selamat Datang Pengunjung,</h1>
+  <h1 class="display-4">Selamat Datang Pengunjung yang Terhormat</h1>
   <p class="lead">Nahida's Archieve adalah website manajemen dokumen. Arhieve ini dibuat untuk memenuhi tugas tugas UTS Mobile and Web Programming</p>
   <hr class="my-4">
 
